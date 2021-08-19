@@ -24,7 +24,7 @@ It includes a form to take user input to add a movie to their list:
 <br>
 <br>
 
-![image of home screen](https://github.com/barnettbrittanym/SciFiWatchlist/blob/main/SciFiWatchlist/SciFiWatchlist/SciFiWatchlistImages/SciFiWatchlistHomeScreen.PNG)
+![image of home screen](https://github.com/barnettbrittanym/SciFiWatchlist/blob/main/SciFiWatchlist/SciFiWatchlist/SciFiWatchlistImages/SciFiWatchlistAdd.PNG)
 <br>
 <br>
 
