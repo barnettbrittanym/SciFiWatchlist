@@ -1,6 +1,6 @@
 # SciFiWatchlist
 This project was created in a team environment using Agile/Scrum methodology.
-It was created a portion of a larger application titled AppBuilder9000.<br>
+It was created as a portion of a larger application titled AppBuilder9000.<br>
 <br>
 The SciFiWatchlist allows the users to create a list of SciFi movies that they intend to watch. It also populates a list of suggestions by inserting a list of the top 100 SciFi movies using data scraped from the Rotten Tomatoes site via BeautifulSoup.
 <br>
